@@ -7,7 +7,6 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import ru.netology.entity.Country;
 import ru.netology.entity.Location;
-import ru.netology.geo.GeoServiceImpl;
 
 import java.util.stream.Stream;
 
